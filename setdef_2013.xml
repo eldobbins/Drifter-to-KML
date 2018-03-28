@@ -1,0 +1,129 @@
+<xml>
+<!-- Control file for generation of summary KML files (drifter tracks but no daily points)
+     Include all the ids in a set to group them together.  Make sure names are unique
+     ELD
+     6/27/13  -->
+    <set>
+        <name>BOEM-SVP-2012-13</name>
+        <description>Tom Weingartner's SVP drogued drifters (BOEM), released Aug. 2012 and overwintered.</description>
+        <color>FFFF00FF</color>
+        <id>UAFSFOS-SVP-0005-2</id>
+        <id>UAFSFOS-SVP-0006-2</id>
+        <id>UAFSFOS-SVP-0009-2</id>
+        <id>UAFSFOS-SVP-0011-2</id>
+    </set>
+    <set>
+        <name>NSBW-iS-20130817</name>
+        <description>North Slope Borough Department of Wildlife iSPHERE drifters, deployed Aug. 17, 2013.</description>
+        <color>FF90EE90</color>
+        <id>300234011166290-3</id>
+        <id>300234011167180-3</id>
+    </set>
+     <set>
+        <name>NSBW-iS-20130824</name>
+        <description>North Slope Borough Department of Wildlife iSPHERE drifters, deployed Aug. 24, 2013.</description>
+        <color>FF90EE90</color>
+        <id>300234011165180-2</id>
+        <id>300234011165190-2</id>
+        <id>300234060667820</id>
+    </set>
+   <set>
+        <name>NSBW-inMS-20130817</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, deployed inshore Aug. 17, 2013.</description>
+        <color>FF99CCFF</color>
+        <id>NSBW-I-0054</id>
+        <id>NSBW-I-0057</id>
+        <id>NSBW-I-0058</id>
+        <id>NSBW-I-0059</id>
+        <id>NSBW-I-0063</id>
+        <id>NSBW-I-0067</id>
+        <id>NSBW-I-0068</id>
+        <id>NSBW-I-0070</id>
+        <id>NSBW-I-0071</id>
+        <id>NSBW-I-0075</id>
+        <id>NSBW-I-0076</id>
+        <id>NSBW-I-0077</id>
+        <id>NSBW-I-0078</id>
+    </set>
+    <set>
+        <name>NSBW-offMS-20130817</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, deployed inshore Aug. 17, 2013.</description>
+        <color>FFFF00FF</color>
+        <id>NSBW-I-0053</id>
+        <id>NSBW-I-0055</id>
+        <id>NSBW-I-0056</id>
+        <id>NSBW-I-0060</id>
+        <id>NSBW-I-0061</id>
+        <id>NSBW-I-0062</id>
+        <id>NSBW-I-0064</id>
+        <id>NSBW-I-0065</id>
+        <id>NSBW-I-0066</id>
+        <id>NSBW-I-0069</id>
+        <id>NSBW-I-0072</id>
+        <id>NSBW-I-0073</id>
+        <id>NSBW-I-0074</id>
+    </set>
+    <set>
+        <name>NSBW-MS-20130824</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, deployed inshore Aug. 24, 2013.</description>
+        <color>FF99CCFF</color>
+        <id>NSBW-I-0027</id>
+        <id>NSBW-I-0028</id>
+        <id>NSBW-I-0029</id>
+        <id>NSBW-I-0030</id>
+        <id>NSBW-I-0031</id>
+        <id>NSBW-I-0032</id>
+        <id>NSBW-I-0033</id>
+        <id>NSBW-I-0034</id>
+        <id>NSBW-I-0035</id>
+        <id>NSBW-I-0036</id>
+        <id>NSBW-I-0037</id>
+        <id>NSBW-I-0038</id>
+        <id>NSBW-I-0039</id>
+        <id>NSBW-I-0040</id>
+        <id>NSBW-I-0041</id>
+        <id>NSBW-I-0042</id>
+        <id>NSBW-I-0043</id>
+        <id>NSBW-I-0044</id>
+        <id>NSBW-I-0045</id>
+        <id>NSBW-I-0046</id>
+        <id>NSBW-I-0047</id>
+        <id>NSBW-I-0048</id>
+        <id>NSBW-I-0049</id>
+        <id>NSBW-I-0050</id>
+        <id>NSBW-I-0051</id>
+        <id>NSBW-I-0052</id>
+    </set>
+    <set>
+        <name>SFOS-g159-20130908</name>
+        <description>Peter Winsor's Microstar drifters (BOEM), released Sept. 8, 2013, to go with glider #159.</description>
+        <!-- Cluster #1 will go with glider #159, and the drifters are: -->
+        <color>FF0066FF</color>
+        <id>SFOS-MS-0028</id>
+        <id>SFOS-MS-0030</id>
+        <id>SFOS-MS-0034</id>
+        <id>SFOS-MS-0035</id>
+        <id>SFOS-MS-0036</id>
+        <id>SFOS-MS-0038</id>
+        <id>SFOS-MS-0043</id>
+        <id>SFOS-MS-0044</id>
+        <id>SFOS-MS-0045</id>
+        <id>SFOS-MS-0046</id>
+    </set> 
+    <set>
+        <name>SFOS-20130909</name>
+        <description>Peter Winsor's Microstar drifters (BOEM), released Sept. 9, 2013.</description>
+        <!-- Cluster #1 will go with glider #159, and the drifters are: -->
+        <color>FF0066FF</color>
+        <id>SFOS-MS-0027</id>
+        <id>SFOS-MS-0029</id>
+        <id>SFOS-MS-0031</id>
+        <id>SFOS-MS-0032</id>
+        <id>SFOS-MS-0033</id>
+        <id>SFOS-MS-0037</id>
+        <id>SFOS-MS-0039</id>
+        <id>SFOS-MS-0040</id>
+        <id>SFOS-MS-0041</id>
+        <id>SFOS-MS-0042</id>
+    </set> 
+</xml>

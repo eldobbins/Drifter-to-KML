@@ -1,0 +1,18 @@
+<xml>
+<!-- Control file for generation of summary KML files (drifter tracks but no daily points)
+     Include all the ids in a set to group them together.  Make sure names are unique
+     ELD
+     3/2/17  -->
+    <set>
+        <name>IT2017-Barrow</name>
+        <description>Ice tracking drifters deployed near Barrow by Peter Winsor and Jeremy Kasper.</description>
+        <color>FF00FF00</color>
+        <id>SFOS-IT-0021</id>
+        <id>SFOS-IT-0022</id>
+        <id>SFOS-IT-0023</id>
+        <id>SFOS-IT-0024</id>
+        <id>SFOS-IT-0025</id>
+    </set>
+
+</xml>
+

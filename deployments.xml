@@ -1,0 +1,70 @@
+<xml>
+  <!--
+Control file for Jeremy Kasper's PacificGyre Microstar ice tracking drifters
+-->
+  <Deployment>
+    <id>SFOS-IT-0021</id>
+    <drifter>SFOS-IT-0021</drifter>
+    <name>Ice Tracking Drifter #SFOS-IT-0022, Spring 2017</name>
+    <start>2017-03-01 20:00:00</start>
+    <latitude>71.3636</latitude>
+    <longitude>-156.2414</longitude>
+    <area>Chukchi Sea</area>
+    <purpose>To test the use of low cost GPS drifters for tracking oiled ice (BOEM).</purpose>
+    <tag>IceTracker2017</tag>
+    <status>OK</status>
+    <color>FF00FF00</color>
+  </Deployment>
+  <Deployment>
+    <id>SFOS-IT-0022</id>
+    <drifter>SFOS-IT-0022</drifter>
+    <name>Ice Tracking Drifter #SFOS-IT-0023, Spring 2017</name>
+    <start>2017-03-01 21:00:00</start>
+    <latitude>71.3495</latitude>
+    <longitude>-156.2474</longitude>
+    <area>Chukchi Sea</area>
+    <purpose>To test the use of low cost GPS drifters for tracking oiled ice (BOEM).</purpose>
+    <tag>IceTracker2017</tag>
+    <status>OK</status>
+    <color>FF00FF00</color>
+  </Deployment>
+  <Deployment>
+    <id>SFOS-IT-0023</id>
+    <drifter>SFOS-IT-0023</drifter>
+    <name>Ice Tracking Drifter #SFOS-IT-0023, Spring 2017</name>
+    <start>2017-03-01 21:00:00</start>
+    <latitude>71.3378</latitude>
+    <longitude>-156.2441</longitude>
+    <area>Chukchi Sea</area>
+    <purpose>To test the use of low cost GPS drifters for tracking oiled ice (BOEM).</purpose>
+    <tag>IceTracker2017</tag>
+    <status>OK</status>
+    <color>FF00FF00</color>
+  </Deployment>
+  <Deployment>
+    <id>SFOS-IT-0024</id>
+    <drifter>SFOS-IT-0024</drifter>
+    <name>Ice Tracking Drifter #SFOS-IT-0024, Spring 2017</name>
+    <start>2017-03-01 21:00:00</start>
+    <latitude>71.3197</latitude>
+    <longitude>-156.2497</longitude>
+    <area>Chukchi Sea</area>
+    <purpose>To test the use of low cost GPS drifters for tracking oiled ice (BOEM).</purpose>
+    <tag>IceTracker2017</tag>
+    <status>OK</status>
+    <color>FF00FF00</color>
+  </Deployment>
+  <Deployment>
+    <id>SFOS-IT-0025</id>
+    <drifter>SFOS-IT-0025</drifter>
+    <name>Ice Tracking Drifter #SFOS-IT-0025, Spring 2017</name>
+    <start>2017-03-01 21:00:00</start>
+    <latitude>71.3066</latitude>
+    <longitude>-156.2475</longitude>
+    <area>Chukchi Sea</area>
+    <purpose>To test the use of low cost GPS drifters for tracking oiled ice (BOEM).</purpose>
+    <tag>IceTracker2017</tag>
+    <status>OK</status>
+    <color>FF00FF00</color>
+  </Deployment>
+</xml>

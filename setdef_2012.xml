@@ -1,0 +1,208 @@
+<xml>
+<!-- Control file for generation of summary KML files (drifter tracks but no daily points)
+     Include all the ids in a set to group them together.  Make sure names are unique
+     ELD
+     8/20/12  -->
+    <set>
+        <name>NSBW-MS-20120810</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, released Aug. 10, 2012.</description>
+        <color>FF99CCFF</color>
+        <id>NSBW-I-0001</id>
+        <id>NSBW-I-0002</id>
+        <id>NSBW-I-0003</id>
+        <id>NSBW-I-0004</id>
+        <id>NSBW-I-0005</id>
+        <id>NSBW-I-0006</id>
+        <id>NSBW-I-0007</id>
+        <id>NSBW-I-0008</id>
+        <id>NSBW-I-0009</id>
+        <id>NSBW-I-0010</id>
+        <id>NSBW-I-0011</id>
+        <id>NSBW-I-0012</id>
+        <id>NSBW-I-0013</id>
+    </set> 
+    <set>
+        <name>NSBW-iS-20120810</name>
+        <description>North Slope Borough Department of Wildlife iSPHERE surface drifters, released Aug. 10, 2012.</description>
+        <color>FF90EE90</color>
+        <id>300234011160180</id>
+        <id>300234011160190</id>
+        <id>300234011161190</id>
+        <id>300234011163180</id>
+        <id>300234011164180</id>
+        <id>300234011165180</id>
+        <id>300234011165190</id>
+        <id>300234011161180</id>
+        <id>300234011162300</id>
+        <id>300234011166180</id>
+        <id>300234011166190</id>
+        <id>300234011167190</id>
+        <id>300234011168180</id>
+    </set> 
+    <set>
+        <name>BOEM-MS-20120813</name>
+        <description>Tom Weingartner's Microstar drifters (BOEM), released Aug. 13, 2012.</description>
+        <color>FF0000FF</color>
+        <id>UAFSFOS-MS-0001</id>
+        <id>UAFSFOS-MS-0004</id>
+        <id>UAFSFOS-MS-0005</id>
+        <id>UAFSFOS-MS-0006</id>
+        <id>UAFSFOS-MS-0007</id>
+        <id>UAFSFOS-MS-0009</id>
+    </set> 
+    <set>
+        <name>BOEM-SVP-20120813</name>
+        <description>Tom Weingartner's SVP drogued drifters (BOEM), released Aug. 13, 2012.</description>
+        <color>FFFF00FF</color>
+        <id>UAFSFOS-SVP-0002</id>
+        <id>UAFSFOS-SVP-0003</id>
+        <id>UAFSFOS-SVP-0005</id>
+        <id>UAFSFOS-SVP-0006</id>
+        <id>UAFSFOS-SVP-0008</id>
+        <id>UAFSFOS-SVP-0010</id>
+    </set> 
+    <set>
+        <name>BOEM-MS-20120824</name>
+        <description>Tom Weingartner's Microstar drifters (BOEM), released Aug. 24, 2012.</description>
+        <color>FF0000FF</color>
+        <!-- Dead <id>UAFSFOS-MS-0002</id> -->
+        <id>UAFSFOS-MS-0003</id>
+        <id>UAFSFOS-MS-0008</id>
+        <!-- Dead <id>UAFSFOS-MS-0010</id> -->
+        <id>UAFSFOS-MS-0011</id>
+        <id>UAFSFOS-MS-0012</id>
+    </set> 
+    <set>
+        <name>BOEM-SVP-20120824</name>
+        <description>Tom Weingartner's SVP drogued drifters (BOEM), released Aug. 24, 2012.</description>
+        <color>FFFF00FF</color>
+        <id>UAFSFOS-SVP-0001</id>
+        <id>UAFSFOS-SVP-0004</id>
+        <id>UAFSFOS-SVP-0007</id>
+        <id>UAFSFOS-SVP-0009</id>
+        <id>UAFSFOS-SVP-0011</id>
+        <id>UAFSFOS-SVP-0012</id>
+    </set>
+    <set>
+        <name>NSBW-MS-20120823</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, released Aug. 23, 2012.</description>
+        <color>FF99CCFF</color>
+        <id>NSBW-I-0014</id>
+        <id>NSBW-I-0015</id>
+        <id>NSBW-I-0016</id>
+        <id>NSBW-I-0017</id>
+        <id>NSBW-I-0018</id>
+        <id>NSBW-I-0019</id>
+        <id>NSBW-I-0020</id>
+        <id>NSBW-I-0021</id>
+        <id>NSBW-I-0022</id>
+        <id>NSBW-I-0023</id>
+        <id>NSBW-I-0024</id>
+        <id>NSBW-I-0025</id>
+        <id>NSBW-I-0026</id>
+    </set> 
+    <set>
+        <name>NSBW-iS-20120823</name>
+        <description>North Slope Borough Department of Wildlife iSPHERE surface drifters, released Aug. 23, 2012.</description>
+        <color>FF90EE90</color>
+        <id>300234011160300</id>
+        <id>300234011161200</id>
+        <id>300234011161300</id>
+        <id>300234011163190</id>
+        <id>300234011163300</id>
+        <id>300234011164190</id>
+        <id>300234011165300</id>
+        <id>300234011166290</id>
+        <id>300234011167180</id>
+        <id>300234011167290</id>
+        <id>300234011169180</id>
+        <id>300234011169290</id>
+        <id>300234011561080</id>
+    </set> 
+    <set>
+        <name>SFOS-g159-20120828</name>
+        <description>Peter Winsor's Microstar drifters (BOEM), released Aug. 27, 2012, to go with glider #159.</description>
+        <!-- Cluster #1 will go with glider #159, and the drifters are: -->
+        <color>FF0066FF</color>
+        <id>SFOS-MS-0017</id>
+        <id>SFOS-MS-0018</id>
+        <id>SFOS-MS-0019</id>
+        <id>SFOS-MS-0020</id>
+        <id>SFOS-MS-0021</id>
+        <id>SFOS-MS-0022</id>
+        <id>SFOS-MS-0023</id>
+        <id>SFOS-MS-0024</id>
+        <id>SFOS-MS-0025</id>
+        <id>SFOS-MS-0026</id>
+    </set> 
+    <set>
+        <name>SFOS-g167-20120828</name>
+        <description>Peter Winsor's Microstar drifters (BOEM), released Aug. 24, 2012 to go with glider #167.</description>
+        <!-- Cluster #2 will go with glider #167, and the drifters are: -->
+        <color>FF00FFFF</color>
+        <id>SFOS-MS-0007</id>
+        <id>SFOS-MS-0008</id>
+        <id>SFOS-MS-0009</id>
+        <id>SFOS-MS-0010</id>
+        <id>SFOS-MS-0011</id>
+        <id>SFOS-MS-0012</id>
+        <id>SFOS-MS-0013</id>
+        <id>SFOS-MS-0014</id>
+        <id>SFOS-MS-0015</id>
+        <id>SFOS-MS-0016</id>
+    </set> 
+    <set>
+        <name>BOEM-MS-20120901</name>
+        <description>Peter Winsor's Microstar drifters (BOEM), re-deployed Sep. 1, 2012.</description>
+        <color>FF00FFFF</color>
+        <id>SFOS-MS-0007-2</id>
+        <id>SFOS-MS-0008-2</id>
+        <id>SFOS-MS-0009-2</id>
+        <id>SFOS-MS-0010-2</id>
+        <id>SFOS-MS-0011-2</id>
+        <id>SFOS-MS-0012-2</id>
+        <id>SFOS-MS-0013-2</id>
+        <id>SFOS-MS-0014-2</id>
+        <id>SFOS-MS-0015-2</id>
+        <id>SFOS-MS-0016-2</id>
+    </set> 
+    <set>
+        <name>NSBW-MS-20120910</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, re-deployed Sep. 10, 2012.</description>
+        <color>FF99CCFF</color>
+        <id>NSBW-I-0014-2</id>
+        <id>NSBW-I-0015-2</id>
+        <id>NSBW-I-0016-2</id>
+        <id>NSBW-I-0017-2</id>
+        <id>NSBW-I-0018-2</id>
+        <id>NSBW-I-0019-2</id>
+        <id>NSBW-I-0020-2</id>
+    </set> 
+    <set>
+        <name>NSBW-iS-20120910</name>
+        <description>North Slope Borough Department of Wildlife iSPHERE surface drifters, re-deployed Sep. 10, 2012.</description>
+        <color>FF90EE90</color>
+        <id>300234011166290-2</id>
+        <id>300234011167180-2</id>
+        <id>300234011167290-2</id>
+        <id>300234011169180-2</id>
+        <id>300234011169290-2</id>
+        <id>300234011561080-2</id>
+    </set> 
+    <set>
+        <name>NSBW-MS-20120921</name>
+        <description>North Slope Borough Department of Wildlife Microstar drifters, re-deployed Sep. 21, 2012.</description>
+        <color>FF99CCFF</color>
+        <id>NSBW-I-0021-2</id>
+        <id>NSBW-I-0022-2</id>
+    </set> 
+    <set>
+        <name>NSBW-iS-20120921</name>
+        <description>North Slope Borough Department of Wildlife iSPHERE surface drifters, re-deployed Sep. 21, 2012.</description>
+        <color>FF90EE90</color>
+        <id>300234011167290-3</id>
+        <id>300234011169180-3</id>
+        <id>300234011169290-3</id>
+        <id>300234011561080-3</id>
+    </set> 
+</xml>

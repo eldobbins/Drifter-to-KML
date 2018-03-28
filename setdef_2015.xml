@@ -1,0 +1,100 @@
+<xml>
+<!-- Control file for generation of summary KML files (drifter tracks but no daily points)
+     Include all the ids in a set to group them together.  Make sure names are unique
+     ELD
+     9/8/15  -->
+    <set>
+        <name>ARCTREX-2015</name>
+        <description>ARCTREX (Peter Winsor) drifters that were deployed in the Chukchi Sea, Sept. 2015.</description>
+        <color>FF0000FF</color>
+        <!-- <id>SFOS-MS-0052</id> -->
+        <id>SFOS-MS-0077</id>
+        <id>SFOS-MS-0078</id>
+        <id>SFOS-MS-0079</id>
+        <id>SFOS-MS-0080</id>
+        <id>SFOS-MS-0081</id>
+        <id>SFOS-MS-0082</id>
+        <id>SFOS-MS-0083</id>
+        <id>SFOS-MS-0084</id>
+        <id>SFOS-MS-0085</id>
+        <id>SFOS-MS-0086</id>
+    </set>
+    <set>
+        <name>Kotzebue-20150917-10km</name>
+        <description>Seth Danielson's drifters deployed 10km from shore in Kotzebue Sound.</description>
+        <color>FFFF00FF</color>
+        <id>UAFSFOS-MS-0015-2</id>
+        <id>UAFSFOS-MS-0020-2</id>
+        <id>UAFSFOS-MS-0023</id>
+        <id>UAFSFOS-MS-0024</id>
+        <id>UAFSFOS-MS-0025</id>
+        <id>UAFSFOS-MS-0028</id>
+    </set>
+    <set>
+        <name>Kotzebue-20150917-5km</name>
+        <description>Seth Danielson's drifters deployed 5km from shore in Kotzebue Sound.</description>
+        <color>FFFFFFFF</color>
+        <id>UAFSFOS-MS-0013-2</id>
+        <id>UAFSFOS-MS-0014-2</id>
+        <id>UAFSFOS-MS-0016-2</id>
+        <id>UAFSFOS-MS-0019-2</id>
+        <id>UAFSFOS-MS-0021</id>
+        <id>UAFSFOS-MS-0022</id>
+        <id>UAFSFOS-MS-0026</id>
+        <id>UAFSFOS-MS-0027</id>
+    </set>
+    <set>
+        <name>Kotzebue-20150622</name>
+        <description>Seth Danielson's drifters that were deployed in Kotzebue Sound.</description>
+        <color>FF0000FF</color>
+        <id>UAFSFOS-MS-0013</id>
+        <id>UAFSFOS-MS-0014</id>
+        <id>UAFSFOS-MS-0015</id>
+        <id>UAFSFOS-MS-0016</id>
+        <id>UAFSFOS-MS-0017</id>
+        <id>UAFSFOS-MS-0018</id>
+        <id>UAFSFOS-MS-0019</id>
+        <id>UAFSFOS-MS-0020</id>
+    </set>
+    <set>
+        <name>IT2015-Barrow</name>
+        <description>Ice tracking drifters deployed near Barrow by Peter Winsor and Jeremy Kasper.</description>
+        <color>FF00FF00</color>
+        <id>SFOS-IT-0011</id>
+        <id>SFOS-IT-0012</id>
+        <id>SFOS-IT-0013</id>
+        <id>SFOS-IT-0014</id>
+        <id>SFOS-IT-0015</id>
+    </set>
+    <set>
+        <name>IT2015-Harrison</name>
+        <description>Ice tracking drifters deployed in Harrison Bay by Jeremy Kasper.</description>
+        <color>FF0000FF</color>
+        <id>SFOS-IT-0016</id>
+        <id>SFOS-IT-0017</id>
+        <id>SFOS-IT-0018</id>
+        <id>SFOS-IT-0019</id>
+        <id>SFOS-IT-0020</id>
+    </set>
+    <set>
+        <name>IT2015-multiyear</name>
+        <description>Ice tracking drifters deployed multiyear sea ice by Peter Winsor and Jeremy Kasper.</description>
+        <color>FFFFFFFF</color>
+        <id>SFOS-IT-0003</id>
+        <id>SFOS-IT-0006</id>
+        <id>SFOS-IT-0009</id>
+        <id>SFOS-IT-0010</id>
+    </set>
+    <set>
+        <name>IT2015-firstyear</name>
+        <description>Ice tracking drifters deployed first year sea ice by Peter Winsor and Jeremy Kasper.</description>
+        <color>FF0066FF</color>
+        <id>SFOS-IT-0001</id>
+        <id>SFOS-IT-0002</id>
+        <id>SFOS-IT-0004</id>
+        <id>SFOS-IT-0005</id>
+        <id>SFOS-IT-0007</id>
+        <id>SFOS-IT-0008</id>
+    </set>
+
+</xml>
